@@ -11,7 +11,11 @@
 \newpage
 
 \section{Introduction}
-Bangladesh is predominantly an agricultural country where agriculture sector plays a vital role in accelerating the economic growth. It is therefore important to have a profitable, sustainable and environment-friendly agricultural system in order to ensure long-term food security for people. So, we're working on a website which is mainly focused on managing the whole agricultural system of the country. The website will contain a database with the information about all the products grow in our country, the area of the cultivatable land, crops distribution policy, weather of the country, farmer's information, fertilizers and other important field of agricultural system. By accessing the website, people can easily get to know about the type of information which is necessary for the growth of the agricultural field of our country.
+Bangladesh is predominantly an agricultural country where agriculture sector plays a vital role in accelerating the economic growth. It is therefore important to have a 
+profitable, sustainable and environment-friendly agricultural system in order to ensure long-term food security for people. So, we're working on a website which is mainly 
+focused on managing the whole agricultural system of the country. The website will contain a database with the information about all the products grow in our country, the area
+of the cultivatable land, crops distribution policy, weather of the country, farmer's information, fertilizers and other important field of agricultural system. By accessing 
+the website, people can easily get to know about the type of information which is necessary for the growth of the agricultural field of our country.
 
 \section{Objectives}
 1.To distribute crops properly among districts.\\
@@ -39,7 +43,9 @@ Bangladesh is predominantly an agricultural country where agriculture sector pla
 4.Web server \\
 
 \section{Challenges}
-Several difficulties can be faced to make this kind of database. Because, many of us don't know about the exact format of an agricultural management system. There will be a huge expense in order to collect that much data. Because, this will be needed a huge amount of worker to collect data from every single district. Besides, most of our farmers are uneducated. Teaching them about the scientific procedure of farming will require a lot of time and money.
+Several difficulties can be faced to make this kind of database. Because, many of us don't know about the exact format of an agricultural management system. There will be a 
+huge expense in order to collect that much data. Because, this will be needed a huge amount of worker to collect data from every single district. Besides, most of our farmers 
+are uneducated. Teaching them about the scientific procedure of farming will require a lot of time and money.
 
 \end{document}
 
